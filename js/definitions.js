@@ -81,13 +81,13 @@ const BULLETIN_TYPE = [
 
 // Neighborhood names in order of neighborhood id
 const NEIGHBORHOOD = [
-    "The Weirding Triangle", //1
-    "Nebula Heights", //2
-    "Solaris Slopes", //3
-    "Stardust Valley", //4
-    "Great Orion Wall", //5
-    "Stellar Springs", //6
-    "Apollo Acres" //7
+    "The Shrouded Triangle", //1
+    "Ravenspire Heights", //2
+    "Hexwoon Hollow", //3
+    "Duskmoor Valley", //4
+    "The Obsidian Wall", //5
+    "Hallowmere Springs", //6
+    "Sablewick Acres" //7
 ];
 
 // Sim filter keys
