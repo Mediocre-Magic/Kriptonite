@@ -83,7 +83,7 @@ const BULLETIN_TYPE = [
 const NEIGHBORHOOD = [
     "The Shrouded Triangle", //1
     "Ravenspire Heights", //2
-    "Hexwoon Hollow", //3
+    "Hexwood Hollow", //3
     "Duskmoor Valley", //4
     "The Obsidian Wall", //5
     "Hallowmere Springs", //6
@@ -146,10 +146,10 @@ const SMO_BAR_GREEN = [180, 100, 50];
 const CONFETTI_SPAWN_COUNT = 128;
 const MAX_STYLES = 10; // Maximum styles to loop through
 
-const STORAGE_BOOKMARK_KEY = "XenoSO-idList";
-const STORAGE_BOOKMARK_KEY_OLD = "XenoSO-idList";
-const STORAGE_BOOKMARK_CACHE_KEY = "XenoSO-idList-cache";
-const SETTINGS_KEY = "XenoSO-settings";
+const STORAGE_BOOKMARK_KEY = "KriptSO-idList";
+const STORAGE_BOOKMARK_KEY_OLD = "KriptSO-idList";
+const STORAGE_BOOKMARK_CACHE_KEY = "KriptSO-idList-cache";
+const SETTINGS_KEY = "KriptSO-settings";
 //#endregion
 
 //#region Market Watch Constants
