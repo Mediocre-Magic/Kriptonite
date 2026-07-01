@@ -2,8 +2,8 @@ const simDataHolder = new SimData();
 
 document.addEventListener("DOMContentLoaded", async e => {
 
-    console.log(`%c XenoSO SimStalker ${VERSION_STR} `, "color: yellow; background-color: purple; font-size: 1.9em;");
-    console.log(`%c A Website By Reaganomics Lamborghini `, "color: yellow; background-color: purple;");
+    console.log(`%c KriptSO SimStalker ${VERSION_STR} `, "color: yellow; background-color: purple; font-size: 1.9em;");
+    console.log(`%c A Website By Reaganomics Lamborghini changes by Mediocre `, "color: yellow; background-color: purple;");
 
     simFinderMain.start();
 });
