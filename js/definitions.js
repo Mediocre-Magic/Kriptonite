@@ -2,6 +2,7 @@ const VERSION_STR = "v0.2.4h";
 
 //#region API Links
 const BASE_URL = "https://api.kryptso.space/";
+const SIM__ONLINE_URL = `${BASE_URL}/userapi/avatars/online`;
 const LOTS_ONLINE_URL = `${BASE_URL}/userapi/city/1/lots/online`;
 
 const STAFF_LIST_URL = "https://raw.githubusercontent.com/Tragic-Alec/XSO-Data/refs/heads/main/staffnames.txt";
